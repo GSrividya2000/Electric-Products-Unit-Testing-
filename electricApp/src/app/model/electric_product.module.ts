@@ -5,7 +5,7 @@ import { ElectricProductComponent } from '../electric-product/electric-product.c
 import { RestDataSource } from '../datasource/rest.datasource';
 
 @NgModule({
-    declarations: [], // Declare ElectricProductComponent here
+    declarations: [],
     imports: [
         CommonModule,
         HttpClientModule,
