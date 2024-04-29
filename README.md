@@ -1,1 +1,1 @@
-Created a project of Angular to write unit test cases
+Created a project on Angular to write unit test cases
